@@ -1,8 +1,8 @@
 # Dirty Files
-A dirty file mean that there are untracked changes to a file by, this is noted with a red x.
+A dirty file mean that there are untracked changes to a file, this is noted with a red x.
 
 #Clean Files
-When there is a clean file, this means that all changed have been committed. This is marked with a green check mark.
+When there is a clean file, this means that all changed have been committed, This is marked with a green check mark.
 
 
 #Commands to commit changes:
