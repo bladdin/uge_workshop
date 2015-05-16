@@ -46,6 +46,8 @@ ls -l
 
 #changed to google directory
 cd google
+
+# changed to library directory
 cd Library/
 cd documents
 cd src
