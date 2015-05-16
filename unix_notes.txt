@@ -43,7 +43,8 @@ pwd
 
 # listed files in long form in current directory
 ls -l
-ls-l
+
+#changed to google directory
 cd google
 cd Library/
 cd documents
